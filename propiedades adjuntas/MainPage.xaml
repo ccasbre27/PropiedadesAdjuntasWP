@@ -1,0 +1,34 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Propiedades_Adjuntas.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Canvas>
+            <Ellipse
+                Width="200"
+                Height="200"
+                Fill="Yellow"
+                Canvas.Left="100"
+                Canvas.Top="50" Tap="Ellipse_Tap">
+                
+                <!-- la elipse no tiene algo que le indique en que cordenadas debe mostrarse
+                para eso realizamos lo de las propiedades adjuntas que 
+                consiste en poner la clase padre . left/top y la distancia que queremos
+                esto viene a ser como el margin en android-->
+            </Ellipse>
+        </Canvas>     
+    </Grid>
+
+</phone:PhoneApplicationPage>

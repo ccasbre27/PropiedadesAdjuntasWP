@@ -1,0 +1,35 @@
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Propiedades Adjuntas.dll
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Propiedades Adjuntas.pdb
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\resources.pri
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\AppxManifest.xml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Propiedades Adjuntas.build.appxrecipe
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\AppManifest.xaml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\Bin\Debug\Propiedades_Adjuntas_Debug_AnyCPU.xap
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\App.g.cs
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\MainPage.g.cs
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\Propiedades Adjuntas.g.resources
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\Propiedades_Adjuntas.Resources.AppResources.resources
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\Propiedades Adjuntas.csproj.GenerateResource.Cache
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\Propiedades Adjuntas.dll
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\Propiedades Adjuntas.pdb
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\priconfig.xml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\priconfig.xml.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\layout.resfiles
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\layout.resfiles.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\resources.resfiles
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\resources.resfiles.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\pri.resfiles
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\pri.resfiles.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\qualifiers.txt
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\qualifiers.txt.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\ProjectArchitectures.txt
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\MDILProjectFiles.xml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Propiedades Adjuntas\Propiedades Adjuntas\obj\Debug\XapCacheFile.xml

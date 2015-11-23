@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Propiedades Adjuntas" EntryPointType="Propiedades_Adjuntas.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Propiedades Adjuntas" Source="Propiedades Adjuntas.dll" />
+  </Deployment.Parts>
+</Deployment>
